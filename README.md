@@ -3,7 +3,7 @@
 
  #### Motivação
  
-Este programa é resultado de um projeto de pesquisa desenvolvido em minha iniciação científica na área de matemática. O programa recebe como entrada uma Função de Morse discreta e um complexo simplicial. O programa consegue classificar os simplexos como simplexos regulares ou simplexos críticos. Todos os simplexo críticos são alocados na lista C. Contudo, os simplexos regulares ainda são classidicados como "cabo" ou "ponta". Caso o simplexo regular for "cabo" será guardado em A; caso o o simplexo regular for "ponta" será guardado em B. A saída do programa é a impressão de três listas (variáveis A,B e C) que representam o campo vetorial gradiente induzido pela função f no complexo simplicial K.
+Este programa é resultado de um projeto de pesquisa desenvolvido em minha iniciação científica na área de matemática. O programa recebe como entrada uma função de Morse discreta e um complexo simplicial. O programa consegue classificar os simplexos como simplexos regulares ou simplexos críticos. Todos os simplexo críticos são alocados na lista C. Contudo, os simplexos regulares ainda são classificados como "cabo" ou "ponta". Caso o simplexo regular for "cabo" será guardado em A; caso o o simplexo regular for "ponta" será guardado em B. A saída do programa é a impressão de três listas (variáveis A,B e C) que representam o campo vetorial gradiente induzido pela função f no complexo simplicial K.
 
  #### Em resumo, temos
  - Entrada.
