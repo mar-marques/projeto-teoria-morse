@@ -1,6 +1,5 @@
 
-#Seja k o complexo simplicial e F uma função de Morse tal que, F: k -> R. Este algorito irá gerar o campo 
-#gradiente em k induzido por k
+#Considere K um complexo simplicial e f uma função de Morse discreta tal que f: K -> R. Este algoritmo irá gerar o campo gradiente em K induzido por f.
 
 K = ("1", "2", "3", "4", "5", "3 5", "1 2", "2 3", "3 4", "1 4", "1 3","1 2 3")
 
