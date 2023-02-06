@@ -11,20 +11,6 @@ A = []
 B = []
 C = []
 
-"""
-def EncontrarFaces(simplexo):
-    faces = []
-    simplexo = simplexo.split();
-    if len(simplexo) == 3:
-        for x in range(3):
-            for y in range(x,2):
-                faces.append(simplexo[x]+ " " +simplexo[y+1])
-    elif len(simplexo) == 2:
-        faces.append(simplexo[0])
-        faces.append(simplexo[1])
-    return faces
-"""
-
 def EncontrarFaces(simplexo):
     faces = []
     simplexo = simplexo.split()
